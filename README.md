@@ -3,5 +3,5 @@
 
 ### Team Members:
 - Student1 99170337
-- Student2 98105608
+- Mahyar Afshar 98105608
 - Student3 99170507
